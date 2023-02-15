@@ -1,0 +1,19 @@
+Error type: Verb Phrase attachment Error
+Incorrect dependency: acquisition -> citing
+Correct dependency: university -> citing
+
+Error type: Modifier
+Incorrect dependency: had -> already
+Correct dependency: left -> already
+
+Error type: Prepositional
+Incorrect dependency: declined -> decision
+Correct dependency: reasons -> decision
+
+Error type: Coordination Error
+Incorrect dependency: affects -> one
+Correct dependency: plants -> one
+
+
+- dev UAS: 87.38
+- test UAS: 87.57
